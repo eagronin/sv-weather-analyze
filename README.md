@@ -1,6 +1,6 @@
 # Analysis
 
-This section describes the analysis of wheather patterns in Silicon Valley.  Specifically, the analysis shows that the range of temperatures has widen in 2015 as compared to the previous 10-year period (from 2005 to 2014).
+This section describes the analysis of wheather patterns in Silicon Valley.  Specifically, the analysis shows that the range of temperatures has widened in 2015 as compared to the previous 10-year period (from 2005 to 2014).
 
 Data preparation is described in the [previous section](https://eagronin.github.io/sv-weather-prepare).
 
