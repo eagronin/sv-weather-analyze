@@ -1,6 +1,6 @@
 # Analysis
 
-This section provides analysis of wheather patterns in Silicon Valley.  Specifically, the analysis shows that the range of temperatures has widen in 2015 as compared to the previous 10-year period (from 2005 to 2014).
+This section describes the analysis of wheather patterns in Silicon Valley.  Specifically, the analysis shows that the range of temperatures has widen in 2015 as compared to the previous 10-year period (from 2005 to 2014).
 
 Data preparation is described in the [previous section](https://eagronin.github.io/sv-weather-prepare).
 
@@ -54,7 +54,6 @@ y_2015_high = df_max.TMAX.as_matrix()
 x_low = df_min.Date.as_matrix()
 y_low = df_min.low.as_matrix()
 y_2015_low = df_min.TMIN.as_matrix()
-
 
 # Plot figure
 fig, ax = plt.subplots(figsize = (15,10))
