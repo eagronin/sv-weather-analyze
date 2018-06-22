@@ -8,7 +8,7 @@ Data preparation is described in the [previous section](https://eagronin.github.
 
 The results and visualization are reported in the [next section](https://eagronin.github.io/sv-weather-report/).
 
-## Creating a Visualization of Weather Patterns
+## Visualizing a Weather Pattern
 
 The following code plots a line graph of the record high and record low temperatures by day of the year over the period from 2005 to 2014. The area between the record high and record low temperatures for each day is shaded.  Then this range of daily temperatures is overlaied over a scatter of the 2015 data for any point (highs and lows) for which the ten year (2005-2014) record high or record low was broken in 2015.
 
