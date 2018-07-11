@@ -2,7 +2,7 @@
 
 ## Overview
 
-This section describes the analysis of wheather patterns in Silicon Valley.  The analysis shows that the range of temperatures in Silicon Valley has widened in 2015 as compared to the previous 10-year period (from 2005 to 2014).
+This section describes the analysis of weather patterns in Silicon Valley.  The analysis shows that the range of temperatures in Silicon Valley has widened in 2015 as compared to the previous 10-year period (from 2005 to 2014).
 
 Data preparation is described in the [previous section](https://eagronin.github.io/sv-weather-prepare).
 
@@ -14,7 +14,7 @@ The analysis for this project was performed in Python.
 
 ## Visualizing a Weather Pattern
 
-The following code plots a line graph of the record high and record low temperatures by day of the year over the period from 2005 to 2014. The area between the record high and record low temperatures for each day is shaded.  Then this range of daily temperatures is overlaied over a scatter of the 2015 data for any point (highs and lows) for which the ten year (2005-2014) record high or record low was broken in 2015.
+The following code plots a line graph of the record high and record low temperatures by day of the year over the period from 2005 to 2014. The area between the record high and record low temperatures for each day is shaded.  Then this range of daily temperatures is overlaid over a scatter of the 2015 data for any point (highs and lows) for which the ten year (2005-2014) record high or record low was broken in 2015.
 
 ```python
 # Read data
